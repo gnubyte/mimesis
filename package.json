@@ -1,0 +1,23 @@
+{
+  "name": "mimesis",
+  "version": "1.0.0",
+  "description": "Python library, which helps generate mock data for various purposes. This data can be particularly useful during software development and testing.",
+  "main": "setup.py",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gnubyte/mimesis.git"
+  },
+  "author": "lk-geimfari",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gnubyte/mimesis/issues"
+  },
+  "homepage": "https://github.com/gnubyte/mimesis#readme"
+}
